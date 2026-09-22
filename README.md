@@ -123,8 +123,8 @@ I'm a Data Scientist who's into building things that make data actually useful. 
 ### 🤝 Beyond Work
 
 - TEDx NTU Volunteer — 2026
-- NTU CCDS Graduate Students' Club (GSC), Academic Member
-- Volunteer Lead for laptop donation drives and school libraries in underserved communities
+- NTU CCDS Graduate Students' Club (GSC), Academic Member - 2026
+- CSR Lead for laptop donation drives and school libraries in underserved communities - 2025
 
 ---
 
