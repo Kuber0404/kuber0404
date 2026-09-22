@@ -8,7 +8,7 @@ Hey there, I'm Kuber!
 
 <p align="center">
     <a href="https://github.com/Kuber0404">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&center=true&vCenter=true&lines=Data+Scientist+;+Applied+AI+Engineer+;+Agentic+AI+%26+RAG+;+MSc+Data+Science+at+NTU+;">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%23FFD700&center=true&vCenter=true&lines=Data+Scientist+;+Applied+AI+Engineer+;+MSc+Data+Science+at+NTU+;">
     </a>
 </p>
 </h2>
